@@ -32,12 +32,6 @@ Licenciatura em Química – IFRN (2019)
 
 ---
 
-## 📊 Estatísticas GitHub
-![Dyckson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyckson&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyckson&layout=compact&theme=radical)
-
----
-
 ## 🌎 Onde me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-Dyckson%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyckson-souza-381310129/)](https://www.linkedin.com/in/dyckson-souza-381310129/)
 [![GitHub Badge](https://img.shields.io/badge/-Dyckson-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dyckson)](https://github.com/Dyckson)

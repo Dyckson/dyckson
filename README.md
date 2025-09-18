@@ -26,13 +26,6 @@ Licenciatura em Química – IFRN (2019)
 
 ---
 
-## 🏆 Certificações e Cursos
-- Machine Learning e Data Science com Python (Udemy)  
-- Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA! (Udemy)
-
----
-
 ## 🌎 Onde me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-Dyckson%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyckson-souza-381310129/)](https://www.linkedin.com/in/dyckson-souza-381310129/)
-[![GitHub Badge](https://img.shields.io/badge/-Dyckson-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dyckson)](https://github.com/Dyckson)
 [![Email Badge](https://img.shields.io/badge/-dyckson__vyctor@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dyckson_vyctor@hotmail.com)

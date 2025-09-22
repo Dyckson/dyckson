@@ -1,9 +1,20 @@
 # Olá! Eu sou Dyckson Souza 👋
 
-Sou **Desenvolvedor Backend** com mais de 3 anos de experiência em Golang e Node.js. 
-Tenho experiência prática com AWS (S3, SQS, Step Functions, Secrets Manager) e 
-implementação de pipelines de CI/CD com CircleCI e Jenkins.
-
+Programo desde 2019. Atuei como desenvolvedor fullstack em um projeto pessoal com
+um amigo, no qual aprendi os conceitos básicos de APIs e utilizei tecnologias como
+Django, Express, React, React Native e MySQL.
+Posteriormente, trabalhei por mais de três anos em uma startup, onde aprofundei meus
+conhecimentos em desenvolvimento, manutenção e evolução de aplicações em ambiente
+de produção.
+Nesse período, utilizei principalmente Golang e Node.js, aplicando princípios de Clean
+Architecture e Domain-Driven Design (DDD) para garantir maior organização dos
+projetos e alinhamento com o time de desenvolvimento.
+Utilizávamos arquitetura serverless alinhada a microsserviços, usando a infraestrutura da
+AWS, que gerenciava mais de 700 mil requisições por dia. Recursos como S3, SQS e
+Secrets Manager foram necessários para manter o sistema funcionando. Possuo
+conhecimento em ferramentas de deploy como CircleCI, Jenkins, Git e GitHub para
+versionamento e controle de código.
+.
 ---
 
 ## 🚀 Habilidades Técnicas

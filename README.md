@@ -14,7 +14,6 @@ AWS, que gerenciava mais de 700 mil requisições por dia. Recursos como S3, SQS
 Secrets Manager foram necessários para manter o sistema funcionando. Possuo
 conhecimento em ferramentas de deploy como CircleCI, Jenkins, Git e GitHub para
 versionamento e controle de código.
-.
 ---
 
 ## 🚀 Habilidades Técnicas
